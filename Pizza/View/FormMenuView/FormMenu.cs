@@ -124,12 +124,14 @@ namespace Pizza
         {
             new RemovePresenter( this ).RemoveOne();
             new ButtonRemoveView( this ).RemoveOne();
+            new Form1LabelPricePresenter( this ).SetTextLabelPrice( _price );
         }
 
         private void ButtonRemoveAllListBox_Click ( object sender, EventArgs e )
         {
             new ButtonRemoveView( this ).RemoveAll();
             new RemovePresenter( this ).RemoveAll();
+            new Form1LabelPricePresenter( this ).SetTextLabelPrice( _price );
         }
 
         private void AddressEmailToolStripMenuItem_Click ( object sender, EventArgs e )

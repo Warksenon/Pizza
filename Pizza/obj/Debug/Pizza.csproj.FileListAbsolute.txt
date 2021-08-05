@@ -733,3 +733,37 @@ C:\Users\user\Desktop\kopie programow\Pizza\obj\Debug\Pizza.csproj.CoreCompileIn
 C:\Users\user\Desktop\kopie programow\Pizza\obj\Debug\Pizza.csproj.CopyComplete
 C:\Users\user\Desktop\kopie programow\Pizza\obj\Debug\Pizza.exe
 C:\Users\user\Desktop\kopie programow\Pizza\obj\Debug\Pizza.pdb
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\Pizza.exe
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\Pizza.pdb
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\System.Memory.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\System.Memory.xml
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Source\Repos\Pizza2\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Source\Repos\Pizza2\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Pizza2\Pizza\obj\Debug\Pizza.FormMenu.resources
+C:\Users\user\Source\Repos\Pizza2\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\user\Source\Repos\Pizza2\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\user\Source\Repos\Pizza2\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Source\Repos\Pizza2\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\Pizza2\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Pizza2\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\user\Source\Repos\Pizza2\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Source\Repos\Pizza2\Pizza\obj\Debug\Pizza.pdb
