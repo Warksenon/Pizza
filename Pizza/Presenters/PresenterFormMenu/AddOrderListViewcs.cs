@@ -115,7 +115,7 @@ namespace Pizza
         private string AddPriceDisheAndSide ( Dish dish, List<string> listSides )
         {
             var priceSides = 0.0;
-            var price =0.0;
+            var price= _iPrice.FindPriceAndConvertToDoubel( dish.Price );
 
             foreach (var side in listSides)
             {
@@ -123,7 +123,6 @@ namespace Pizza
                 priceSides += price;
             }
 
-            price = _iPrice.FindPriceAndConvertToDoubel( dish.Price );
             var priceAll =  price + priceSides;
             return priceAll + "zł";
         }

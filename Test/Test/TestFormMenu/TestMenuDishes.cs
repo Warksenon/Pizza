@@ -9,11 +9,11 @@ namespace Test
     [TestFixture]
     public class TestMenuDishes
     {
-        static FakeListDishes  fakeLD = new FakeListDishes();
-        static FakeListSides  fakeLS = new FakeListSides();
-        MenuDishes<FakeListDishes,FakeListSides> menu = new MenuDishes<FakeListDishes,FakeListSides>( fakeLD, fakeLS);
-        FakeDishesList dishesList = new FakeDishesList ();
-        FakeSidesList sidesList =new  FakeSidesList ();
+        static readonly FakeListDishes  fakeLD = new FakeListDishes();
+        static readonly FakeListSides  fakeLS = new FakeListSides();
+        readonly MenuDishes<FakeListDishes,FakeListSides> menu = new MenuDishes<FakeListDishes,FakeListSides>( fakeLD, fakeLS);
+        readonly FakeDishesList dishesList = new FakeDishesList ();
+        readonly FakeSidesList sidesList =new  FakeSidesList ();
 
         [TestCase( "marghPrice", "1", "0" )]
         [TestCase( "vegetPrice", "2", "1" )]
@@ -167,9 +167,11 @@ namespace Test
             int i =1;
             foreach (var k in key)
             {
-                disch = new Dish();
-                disch.Name = k;
-                disch.Price = i.ToString();
+                disch = new Dish
+                {
+                    Name = k,
+                    Price = i.ToString()
+                };
                 listDisches.Add( disch );
                 i++;
             }

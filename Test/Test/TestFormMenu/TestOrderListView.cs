@@ -30,7 +30,7 @@ namespace Test.Test.TestFormMenu
             Assert.AreEqual( expectePrice, currentPrice );
         }
 
-        FormMenu _form = new FormMenu();
+        readonly FormMenu _form = new FormMenu();
 
         [TestCase( "0", "schabowy", "Bar sałatkowy", "35zł" )]
         [TestCase( "1", "Ryba z frytkami", "Zestaw sosów", "34zł" )]
@@ -45,8 +45,10 @@ namespace Test.Test.TestFormMenu
                 Sides=expecteSides,
                 Price = expectePrice
             };
-            var list = new List<Dish>();
-            list.Add( dish );
+            var list = new List<Dish>
+            {
+                dish
+            };
             var lvOrder = new OrderListView(_form);
             lvOrder.SetList( list );
 

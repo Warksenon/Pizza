@@ -4,7 +4,7 @@
     {
         private  IElementGet<Order>  _order;
         private readonly FormMenu _form;
-        IDialogService _dialogService;
+        readonly IDialogService _dialogService;
         ISendOrder _send;
         bool _checkSend;
 

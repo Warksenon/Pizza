@@ -6,12 +6,14 @@ namespace Test.Test
     {
         public EmailData GetElement ()
         {
-            var dataEmail =  new EmailData();
-            dataEmail.Sender = "sss";
-            dataEmail.Password = "ppp";
-            dataEmail.Recipient = "rrr";
-            dataEmail.Smtp = "smtp";
-            dataEmail.Port = "port";
+            var dataEmail = new EmailData
+            {
+                Sender = "sss",
+                Password = "ppp",
+                Recipient = "rrr",
+                Smtp = "smtp",
+                Port = "port"
+            };
 
             return dataEmail;
         }

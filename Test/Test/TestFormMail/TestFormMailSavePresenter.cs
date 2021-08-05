@@ -41,8 +41,10 @@ namespace Test.Test.TestFormMail
             var mailLoad = new FormMailLoad(form);
             mailLoad.SetTextForTextBox( new FakeEmailDat() );
             var mailSave = new FormMailSavePresenters(form);
-            var save = new FakeSaveDataEmail();
-            save.Flag = false;
+            var save = new FakeSaveDataEmail
+            {
+                Flag = false
+            };
             var dialog = new FakeDialog();
             mailSave.SaveDataEmial( save, dialog );
 

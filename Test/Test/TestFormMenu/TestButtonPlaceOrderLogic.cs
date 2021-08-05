@@ -22,8 +22,10 @@ namespace Test.Test.TestFormMenu
             var dialog = new FakeDialog();
             ButtonPlaceOrderLogic button = new ButtonPlaceOrderLogic(form,dialog);
             var order = new FakeCreateOrder();
-            var sendMessage = new FakeSenderMessage();
-            sendMessage.Flag = flag;
+            var sendMessage = new FakeSenderMessage
+            {
+                Flag = flag
+            };
             button.SetOrder( order, sendMessage );
 
             var currentDialog = dialog.Message;
@@ -70,8 +72,10 @@ namespace Test.Test.TestFormMenu
             var dialog = new FakeDialog();
             ButtonPlaceOrderLogic button = new ButtonPlaceOrderLogic(form,dialog);
             var order = new FakeCreateOrder();
-            var sendMessage = new FakeSenderMessage();
-            sendMessage.Flag = flag;
+            var sendMessage = new FakeSenderMessage
+            {
+                Flag = flag
+            };
             button.SetOrder( order, sendMessage );
             var saveData = new FakeSaveData();
             button.SaveOrder( saveData );
@@ -92,8 +96,10 @@ namespace Test.Test.TestFormMenu
             var dialog = new FakeDialog();
             ButtonPlaceOrderLogic button = new ButtonPlaceOrderLogic(form,dialog);
             var order = new FakeCreateOrder();
-            var sendMessage = new FakeSenderMessage();
-            sendMessage.Flag = false;
+            var sendMessage = new FakeSenderMessage
+            {
+                Flag = false
+            };
             button.SetOrder( order, sendMessage );
             var saveData = new FakeSaveData();
             button.SaveOrder( saveData );
@@ -116,7 +122,7 @@ namespace Test.Test.TestFormMenu
 
     internal class FakeSaveData : IElementSet<Order>
     {
-        Order order = new Order();
+        readonly Order order = new Order();
 
         public Order Order { get; private set; }
 
