@@ -77,11 +77,9 @@ namespace Test.Test.TestFormMenu
                 Price = "22zl"
             };
 
-            var list = new List<Dish>
-            {
-                dish1,
-                dish2
-            };
+            var list = new List<Dish>();
+            list.Add( dish1 );
+            list.Add( dish2 );
             return list;
         }
     }

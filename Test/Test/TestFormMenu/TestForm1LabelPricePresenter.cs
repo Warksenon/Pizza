@@ -17,7 +17,7 @@ namespace Test.Test.TestFormMenu
 
             var currentText = form.LabelPrice.Text;
 
-            Assert.AreEqual( "Cena: 200,50 zł", currentText );
+            Assert.AreEqual( "Cena: 200.50 zł", currentText );
         }
     }
 

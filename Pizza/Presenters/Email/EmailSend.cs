@@ -6,7 +6,7 @@ namespace Pizza.Presenters.Email
 {
     public class EmailSend : ISendOrder
     {
-        readonly IElementGet<EmailData> _loadEmail;
+        IElementGet<EmailData> _loadEmail;
         public EmailSend ( IElementGet<EmailData> loadEmail )
         {
             _loadEmail = loadEmail;
