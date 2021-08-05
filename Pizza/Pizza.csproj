@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NETCore.UniversalWindowsPlatform.props" Condition="Exists('packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NETCore.UniversalWindowsPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{65B9A7A5-72A9-4EF2-8912-2C806F7DE611}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Pizza</RootNamespace>
+    <AssemblyName>Pizza</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Data.Sqlite, Version=5.0.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Data.Sqlite.Core.5.0.4\lib\netstandard2.0\Microsoft.Data.Sqlite.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLitePCLRaw.batteries_v2, Version=2.0.4.976, Culture=neutral, PublicKeyToken=8226ea5df37bcae9, processorArchitecture=MSIL">
+      <HintPath>packages\SQLitePCLRaw.bundle_e_sqlite3.2.0.4\lib\net461\SQLitePCLRaw.batteries_v2.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLitePCLRaw.core, Version=2.0.4.976, Culture=neutral, PublicKeyToken=1488e028ca7ab535, processorArchitecture=MSIL">
+      <HintPath>packages\SQLitePCLRaw.core.2.0.4\lib\netstandard2.0\SQLitePCLRaw.core.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLitePCLRaw.nativelibrary, Version=2.0.4.976, Culture=neutral, PublicKeyToken=502ed628492ab262, processorArchitecture=MSIL">
+      <HintPath>packages\SQLitePCLRaw.bundle_e_sqlite3.2.0.4\lib\net461\SQLitePCLRaw.nativelibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLitePCLRaw.provider.dynamic_cdecl, Version=2.0.4.976, Culture=neutral, PublicKeyToken=b68184102cba0b3b, processorArchitecture=MSIL">
+      <HintPath>packages\SQLitePCLRaw.provider.dynamic_cdecl.2.0.4\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.113.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.113.3\lib\net46\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\FilesTXT\Files.cs" />
+    <Compile Include="Models\FilesTXT\JsonHelper.cs" />
+    <Compile Include="Models\FilesTXT\SaveFilesOrder.cs" />
+    <Compile Include="Models\Menu\ListDishesAndSides\ListDishes.cs" />
+    <Compile Include="Models\Menu\ListDishesAndSides\ListName.cs" />
+    <Compile Include="Models\Menu\ListDishesAndSides\MenuDishes.cs" />
+    <Compile Include="Models\Menu\ListDishesAndSides\ListSides.cs" />
+    <Compile Include="Models\OrderComposition\Verifier.cs" />
+    <Compile Include="Models\Registry\ISaveEmailData.cs" />
+    <Compile Include="Models\Registry\LoadRegistry.cs" />
+    <Compile Include="Models\Registry\Registry.cs" />
+    <Compile Include="Models\Registry\SaveRegistry.cs" />
+    <Compile Include="Models\SqlLite\SaveOrderSQL.cs" />
+    <Compile Include="Models\SqlLite\LoadHistorySQL.cs" />
+    <Compile Include="Models\SqlLite\OrderSQL.cs" />
+    <Compile Include="Models\SqlLite\SaveHistorySQL.cs" />
+    <Compile Include="Presenters\Email\EmailSend.cs" />
+    <Compile Include="Presenters\HelperConvert.cs" />
+    <Compile Include="Presenters\IDialogService.cs" />
+    <Compile Include="Presenters\IElementGet.cs" />
+    <Compile Include="Presenters\IListSet.cs" />
+    <Compile Include="Presenters\IElementSet.cs" />
+    <Compile Include="Presenters\ISendOrder.cs" />
+    <Compile Include="Presenters\DialogBox.cs" />
+    <Compile Include="Presenters\PresenterFormHistory\CopyHistory\HistoryCopy.cs" />
+    <Compile Include="Presenters\PresenterFormHistory\ListViewHistory\HistoryDishesListView.cs" />
+    <Compile Include="Presenters\PresenterFormHistory\ListViewHistory\HistoryPriceListView.cs" />
+    <Compile Include="Presenters\PresenterFormMail\FormMailLoad.cs" />
+    <Compile Include="Presenters\PresenterFormMenu\AddOrderListViewcs.cs" />
+    <Compile Include="Presenters\PresenterFormMenu\ButtonPlaceOrderLogic.cs" />
+    <Compile Include="Presenters\PresenterFormMenu\DishesListView.cs" />
+    <Compile Include="Presenters\PresenterFormMenu\FormMenuLabelPricePresenter.cs" />
+    <Compile Include="Presenters\PresenterFormMenu\OrderListView.cs" />
+    <Compile Include="Presenters\PresenterFormMenu\SidesCheckListBox.cs" />
+    <Compile Include="Presenters\IListGet.cs" />
+    <Compile Include="Presenters\PresenterFormMenu\RemovePresenter.cs" />
+    <Compile Include="View\FormHistry\ButtonFormHistory\ButtonFormHistory.cs" />
+    <Compile Include="View\FormHistry\IButtonFormHistory.cs" />
+    <Compile Include="View\FormMenuView\InterfaceFormMenu\IForm1ListViewDishes.cs" />
+    <Compile Include="Presenters\PresenterFormMenu\IPrice.cs" />
+    <Compile Include="View\FormMenuView\InterfaceFormMenu\IButtonRemove.cs" />
+    <Compile Include="View\FormMenuView\InterfaceFormMenu\IButtonSend.cs" />
+    <Compile Include="View\FormMenuView\InterfaceFormMenu\IForm1LabelPrice.cs" />
+    <Compile Include="View\FormMenuView\InterfaceFormMenu\IForm1ListViewOrder.cs" />
+    <Compile Include="View\FormHistry\IListViewHistory.cs" />
+    <Compile Include="View\FormMail\IFormMail.cs" />
+    <Compile Include="Models\ILoadHistoryOrders.cs" />
+    <Compile Include="Models\ISaveHistory.cs" />
+    <Compile Include="Presenters\Email\EmailMessage.cs" />
+    <Compile Include="Presenters\PresenterFormMail\FormMailSavePresenters.cs" />
+    <Compile Include="Models\OrderComposition\PriceAll.cs" />
+    <Compile Include="Models\OrderComposition\Dish.cs" />
+    <Compile Include="Presenters\HelpFinding.cs" />
+    <Compile Include="Models\Name.cs" />
+    <Compile Include="Models\OrderComposition\Order.cs" />
+    <Compile Include="Presenters\Email\EmailData.cs" />
+    <Compile Include="Models\FilesTXT\SaveFilesHistoryOrder.cs" />
+    <Compile Include="Models\FilesTXT\LoadingFilesTxt.cs" />
+    <Compile Include="View\FormMenuView\InterfaceFormMenu\IForm1ChecedListBoxSides.cs" />
+    <Compile Include="View\FormMenuView\InterfaceFormMenu\IForm1AddButton.cs" />
+    <Compile Include="View\FormMenuView\InterfaceFormMenu\IForm1QuantityTextBox.cs" />
+    <Compile Include="View\FormMenuView\InterfaceFormMenu\IFrom1InfoLabel.cs" />
+    <Compile Include="View\FormMenuView\InterfaceFormMenu\IFormMenuBackgroundWorker.cs" />
+    <Compile Include="View\FormMenuView\InterfaceFormMenu\ITextBoxComments.cs" />
+    <Compile Include="View\FormMenuView\ViewSettings\ButtonMenuView\ButtonMenuView.cs" />
+    <Compile Include="View\FormMenuView\ViewSettings\ButtonMenuView\IFormMenuButtonMenu.cs" />
+    <Compile Include="View\FormMenuView\ViewSettings\ButtonMenuView\ViewSettingButtonMenu.cs" />
+    <Compile Include="View\FormMenuView\FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormMenuView\FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormMenuView\ViewSettings\ButtonOkView.cs" />
+    <Compile Include="View\FormMenuView\ViewSettings\ButtonRemoveView.cs" />
+    <Compile Include="View\FormMenuView\ViewSettings\FormMenuView.cs" />
+    <Compile Include="View\FormMenuView\ViewSettings\ListViewDishes.cs" />
+    <Compile Include="View\FormHistry\FormHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormHistry\FormHistory.Designer.cs">
+      <DependentUpon>FormHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormMail\FormMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormMail\FormMail.Designer.cs">
+      <DependentUpon>FormMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Presenters\RecordOfExceptions.cs" />
+    <Compile Include="Models\SqlLite\CreateConnection.cs" />
+    <Compile Include="Models\SqlLite\CreateTabeles.cs" />
+    <EmbeddedResource Include="View\FormMenuView\FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormHistry\FormHistory.resx">
+      <DependentUpon>FormHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormMail\FormMail.resx">
+      <DependentUpon>FormMail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Ten projekt zawiera odwołania do pakietów NuGet, których nie ma na tym komputerze. Użyj przywracania pakietów NuGet, aby je pobrać. Aby uzyskać więcej informacji, zobacz http://go.microsoft.com/fwlink/?LinkID=322105. Brakujący plik: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NETCore.UniversalWindowsPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NETCore.UniversalWindowsPlatform.props'))" />
+    <Error Condition="!Exists('packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NetCore.UniversalWindowsPlatform.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NetCore.UniversalWindowsPlatform.targets'))" />
+    <Error Condition="!Exists('packages\SQLitePCLRaw.lib.e_sqlite3.2.0.4\build\net461\SQLitePCLRaw.lib.e_sqlite3.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\SQLitePCLRaw.lib.e_sqlite3.2.0.4\build\net461\SQLitePCLRaw.lib.e_sqlite3.targets'))" />
+    <Error Condition="!Exists('packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.113.3\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.113.3\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets'))" />
+  </Target>
+  <Import Project="packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NetCore.UniversalWindowsPlatform.targets" Condition="Exists('packages\Microsoft.NETCore.UniversalWindowsPlatform.6.2.12\build\Microsoft.NetCore.UniversalWindowsPlatform.targets')" />
+  <Import Project="packages\SQLitePCLRaw.lib.e_sqlite3.2.0.4\build\net461\SQLitePCLRaw.lib.e_sqlite3.targets" Condition="Exists('packages\SQLitePCLRaw.lib.e_sqlite3.2.0.4\build\net461\SQLitePCLRaw.lib.e_sqlite3.targets')" />
+  <Import Project="packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.113.3\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets" Condition="Exists('packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.113.3\build\net46\Stub.System.Data.SQLite.Core.NetFramework.targets')" />
+</Project>

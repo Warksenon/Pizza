@@ -1,0 +1,324 @@
+Data : 2020-10-14 20:09:30
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:09:30
+SaveRegistry
+System.ArgumentException: Nie można usunąć drzewa podklucza, ponieważ podklucz nie istnieje.
+   w System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey, Boolean throwOnMissingSubKey)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey)
+   w Test.TModels.TRegistry.ClearTRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 133
+
+
+Data : 2020-10-14 20:09:30
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:11:06
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:12:16
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:12:57
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:16:21
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:16:22
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:16:22
+SaveRegistry
+System.ArgumentException: Nie można usunąć drzewa podklucza, ponieważ podklucz nie istnieje.
+   w System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey, Boolean throwOnMissingSubKey)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey)
+   w Test.TModels.TRegistry.ClearTRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 133
+
+
+Data : 2020-10-14 20:16:22
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:16:55
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:16:56
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:16:56
+SaveRegistry
+System.ArgumentException: Nie można usunąć drzewa podklucza, ponieważ podklucz nie istnieje.
+   w System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey, Boolean throwOnMissingSubKey)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey)
+   w Test.TModels.TRegistry.ClearTRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 133
+
+
+Data : 2020-10-14 20:16:56
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:17:27
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:17:27
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:17:27
+SaveRegistry
+System.ArgumentException: Nie można usunąć drzewa podklucza, ponieważ podklucz nie istnieje.
+   w System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey, Boolean throwOnMissingSubKey)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey)
+   w Test.TModels.TRegistry.ClearTRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 133
+
+
+Data : 2020-10-14 20:17:27
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:18:01
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:18:01
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:18:01
+SaveRegistry
+System.ArgumentException: Nie można usunąć drzewa podklucza, ponieważ podklucz nie istnieje.
+   w System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey, Boolean throwOnMissingSubKey)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey)
+   w Test.TModels.TRegistry.ClearTRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 133
+
+
+Data : 2020-10-14 20:18:01
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:18:38
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:18:38
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:18:38
+SaveRegistry
+System.ArgumentException: Nie można usunąć drzewa podklucza, ponieważ podklucz nie istnieje.
+   w System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey, Boolean throwOnMissingSubKey)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey)
+   w Test.TModels.TRegistry.ClearTRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 133
+
+
+Data : 2020-10-14 20:18:38
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:19:09
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:19:09
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 2020-10-14 20:19:09
+SaveRegistry
+System.ArgumentException: Nie można usunąć drzewa podklucza, ponieważ podklucz nie istnieje.
+   w System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey, Boolean throwOnMissingSubKey)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey)
+   w Test.TModels.TRegistry.ClearTRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 133
+
+
+Data : 2020-10-14 20:19:09
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 10:34:40
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 10:34:40
+SaveRegistry
+System.ArgumentException: Nie można usunąć drzewa podklucza, ponieważ podklucz nie istnieje.
+   w System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey, Boolean throwOnMissingSubKey)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey)
+   w Test.TModels.TRegistry.ClearTRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 133
+
+
+Data : 15.10.2020 10:34:40
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 10:34:40
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 10:34:40
+SaveRegistry
+System.ArgumentException: Nie można usunąć drzewa podklucza, ponieważ podklucz nie istnieje.
+   w System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey, Boolean throwOnMissingSubKey)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey)
+   w Test.TModels.TRegistry.ClearTRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 133
+
+
+Data : 15.10.2020 10:34:40
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\Artur\Desktop\2020-10-14\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 10:38:27
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\user\source\repos\Warksenon\menu\Pizza\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 10:38:28
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\user\source\repos\Warksenon\menu\Pizza\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 10:38:28
+SaveRegistry
+System.ArgumentException: Nie można usunąć drzewa podklucza, ponieważ podklucz nie istnieje.
+   w System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey, Boolean throwOnMissingSubKey)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey)
+   w Test.TModels.TRegistry.ClearTRegistry() w C:\Users\user\source\repos\Warksenon\menu\Pizza\Test\TModels\TRegistry.cs:wiersz 133
+
+
+Data : 15.10.2020 10:38:28
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\user\source\repos\Warksenon\menu\Pizza\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 11:02:13
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\user\source\repos\Warksenon\menu\Pizza\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 11:02:14
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\user\source\repos\Warksenon\menu\Pizza\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 11:02:14
+SaveRegistry
+System.ArgumentException: Nie można usunąć drzewa podklucza, ponieważ podklucz nie istnieje.
+   w System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey, Boolean throwOnMissingSubKey)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey)
+   w Test.TModels.TRegistry.ClearTRegistry() w C:\Users\user\source\repos\Warksenon\menu\Pizza\Test\TModels\TRegistry.cs:wiersz 133
+
+
+Data : 15.10.2020 11:02:14
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\user\source\repos\Warksenon\menu\Pizza\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 11:19:05
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\user\source\repos\Warksenon\menu\Pizza\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 11:19:05
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\user\source\repos\Warksenon\menu\Pizza\Test\TModels\TRegistry.cs:wiersz 85
+
+
+Data : 15.10.2020 11:19:05
+SaveRegistry
+System.ArgumentException: Nie można usunąć drzewa podklucza, ponieważ podklucz nie istnieje.
+   w System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey, Boolean throwOnMissingSubKey)
+   w Microsoft.Win32.RegistryKey.DeleteSubKey(String subkey)
+   w Test.TModels.TRegistry.ClearTRegistry() w C:\Users\user\source\repos\Warksenon\menu\Pizza\Test\TModels\TRegistry.cs:wiersz 133
+
+
+Data : 15.10.2020 11:19:05
+ReadingRegistry
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.TModels.TRegistry.ReadingRegistry() w C:\Users\user\source\repos\Warksenon\menu\Pizza\Test\TModels\TRegistry.cs:wiersz 85
+
+

@@ -1,0 +1,701 @@
+A:\Visual Studio\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+A:\Visual Studio\Pizza\obj\Debug\Pizza.Form1.resources
+A:\Visual Studio\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+A:\Visual Studio\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+A:\Visual Studio\Pizza\bin\Debug\Pizza.exe.config
+A:\Visual Studio\Pizza\bin\Debug\Pizza.exe
+A:\Visual Studio\Pizza\bin\Debug\Pizza.pdb
+A:\Visual Studio\Pizza\obj\Debug\Pizza.exe
+A:\Visual Studio\Pizza\obj\Debug\Pizza.pdb
+A:\Visual Studio\Pizza\obj\Debug\Pizza.FormMail.resources
+A:\Visual Studio\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+A:\Visual Studio\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+A:\Visual Studio\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+A:\Visual Studio\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+A:\Visual Studio\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+A:\Visual Studio\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+A:\Visual Studio\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+A:\Visual Studio\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+A:\Visual Studio\Pizza\bin\Debug\System.Buffers.dll
+A:\Visual Studio\Pizza\bin\Debug\System.Memory.dll
+A:\Visual Studio\Pizza\bin\Debug\System.Numerics.Vectors.dll
+A:\Visual Studio\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\Visual Studio\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+A:\Visual Studio\Pizza\bin\Debug\System.Buffers.xml
+A:\Visual Studio\Pizza\bin\Debug\System.Memory.xml
+A:\Visual Studio\Pizza\bin\Debug\System.Numerics.Vectors.xml
+A:\Visual Studio\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\Visual Studio\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+A:\Visual Studio\Pizza\obj\Debug\Pizza.FormHistory.resources
+A:\Visual Studio\Pizza\bin\Debug\System.Data.SQLite.dll
+A:\Visual Studio\Pizza\bin\Debug\System.Data.SQLite.xml
+A:\Visual Studio\Pizza\bin\Debug\System.Data.SQLite.dll.config
+A:\pizza\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+A:\pizza\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+A:\pizza\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+A:\pizza\Pizza\bin\Debug\Pizza.exe.config
+A:\pizza\Pizza\bin\Debug\Pizza.exe
+A:\pizza\Pizza\bin\Debug\Pizza.pdb
+A:\pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+A:\pizza\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+A:\pizza\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+A:\pizza\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+A:\pizza\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+A:\pizza\Pizza\bin\Debug\System.Buffers.dll
+A:\pizza\Pizza\bin\Debug\System.Data.SQLite.dll
+A:\pizza\Pizza\bin\Debug\System.Memory.dll
+A:\pizza\Pizza\bin\Debug\System.Numerics.Vectors.dll
+A:\pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+A:\pizza\Pizza\bin\Debug\System.Buffers.xml
+A:\pizza\Pizza\bin\Debug\System.Data.SQLite.xml
+A:\pizza\Pizza\bin\Debug\System.Data.SQLite.dll.config
+A:\pizza\Pizza\bin\Debug\System.Memory.xml
+A:\pizza\Pizza\bin\Debug\System.Numerics.Vectors.xml
+A:\pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+A:\pizza\Pizza\obj\Debug\Pizza.Form1.resources
+A:\pizza\Pizza\obj\Debug\Pizza.FormHistory.resources
+A:\pizza\Pizza\obj\Debug\Pizza.FormMail.resources
+A:\pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+A:\pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+A:\pizza\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+A:\pizza\Pizza\obj\Debug\Pizza.exe
+A:\pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\visual studio\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.pdb
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.Form1.resources
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.FormHistory.resources
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.FormMail.resources
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.exe
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.pdb
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\Pizza.exe.config
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\Pizza.exe
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\Pizza.pdb
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Buffers.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Data.SQLite.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Memory.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Numerics.Vectors.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Buffers.xml
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Data.SQLite.xml
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Data.SQLite.dll.config
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Memory.xml
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Numerics.Vectors.xml
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\Pizza.exe.config
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\Pizza.exe
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\Pizza.pdb
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Buffers.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Data.SQLite.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Memory.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Numerics.Vectors.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Buffers.xml
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Data.SQLite.xml
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Data.SQLite.dll.config
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Memory.xml
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Numerics.Vectors.xml
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.Form1.resources
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.FormHistory.resources
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.FormMail.resources
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.exe
+J:\kopie programów\VisualStudio\Pizza\2020-09-29\Pizza\2020-09-26\Pizza\obj\Debug\Pizza.pdb
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\30.09.2020\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\30.09.2020\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\user\Desktop\30.09.2020\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\user\Desktop\30.09.2020\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\user\Desktop\30.09.2020\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\user\Desktop\30.09.2020\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Desktop\30.09.2020\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Desktop\30.09.2020\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\30.09.2020\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\user\Desktop\30.09.2020\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Desktop\30.09.2020\Pizza\obj\Debug\Pizza.pdb
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\Pizza.exe.config
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\Pizza.exe
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\Pizza.pdb
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\System.Buffers.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\System.Data.SQLite.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\System.Memory.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\System.Numerics.Vectors.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\System.Buffers.xml
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\System.Data.SQLite.xml
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\System.Data.SQLite.dll.config
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\System.Memory.xml
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\System.Numerics.Vectors.xml
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\obj\Debug\Pizza.Form1.resources
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\obj\Debug\Pizza.FormHistory.resources
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\obj\Debug\Pizza.FormMail.resources
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\obj\Debug\Pizza.exe
+E:\kopie programów\VisualStudio\Pizza\2020-09-30\Pizza\Pizza\obj\Debug\Pizza.pdb
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\Pizza.exe.config
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\Pizza.exe
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\Pizza.pdb
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\System.Buffers.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\System.Data.SQLite.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\System.Memory.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\System.Numerics.Vectors.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\System.Buffers.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\System.Data.SQLite.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\System.Data.SQLite.dll.config
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\System.Memory.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\System.Numerics.Vectors.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\obj\Debug\Pizza.Form1.resources
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\obj\Debug\Pizza.FormHistory.resources
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\obj\Debug\Pizza.FormMail.resources
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\obj\Debug\Pizza.exe
+E:\kopie programów\VisualStudio\Pizza\2020-10-07\menu\Pizza\Pizza\obj\Debug\Pizza.pdb
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\Pizza.exe.config
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\Pizza.exe
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\Pizza.pdb
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\System.Buffers.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\System.Data.SQLite.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\System.Memory.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\System.Numerics.Vectors.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\System.Buffers.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\System.Data.SQLite.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\System.Data.SQLite.dll.config
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\System.Memory.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\System.Numerics.Vectors.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\obj\Debug\Pizza.Form1.resources
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\obj\Debug\Pizza.FormHistory.resources
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\obj\Debug\Pizza.FormMail.resources
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\obj\Debug\Pizza.exe
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Pizza\obj\Debug\Pizza.pdb
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\Pizza.exe
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\Pizza.pdb
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\System.Memory.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\System.Memory.xml
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Artur\Desktop\2020-10-13\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Artur\Desktop\2020-10-13\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\2020-10-13\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\Artur\Desktop\2020-10-13\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\Artur\Desktop\2020-10-13\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\Artur\Desktop\2020-10-13\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\Artur\Desktop\2020-10-13\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\Artur\Desktop\2020-10-13\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\Artur\Desktop\2020-10-13\Pizza\obj\Debug\Pizza.exe
+C:\Users\Artur\Desktop\2020-10-13\Pizza\obj\Debug\Pizza.pdb
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\System.Memory.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\System.Memory.xml
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\Pizza.exe
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\Pizza.pdb
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\System.Memory.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\System.Memory.xml
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Artur\Desktop\2020-10-14\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Artur\Desktop\2020-10-14\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\2020-10-14\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\Artur\Desktop\2020-10-14\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\Artur\Desktop\2020-10-14\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\Artur\Desktop\2020-10-14\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\Artur\Desktop\2020-10-14\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\Artur\Desktop\2020-10-14\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\Artur\Desktop\2020-10-14\Pizza\obj\Debug\Pizza.exe
+C:\Users\Artur\Desktop\2020-10-14\Pizza\obj\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Pizza\obj\Debug\Pizza.Form1.resources
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Pizza\obj\Debug\Pizza.pdb
+A:\pendrive\repozytoria git\Pizza Git\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+A:\pendrive\repozytoria git\Pizza Git\Pizza\obj\Debug\Pizza.FormHistory.resources
+A:\pendrive\repozytoria git\Pizza Git\Pizza\obj\Debug\Pizza.FormMail.resources
+A:\pendrive\repozytoria git\Pizza Git\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+A:\pendrive\repozytoria git\Pizza Git\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+A:\pendrive\repozytoria git\Pizza Git\Pizza\obj\Debug\Pizza.exe
+A:\pendrive\repozytoria git\Pizza Git\Pizza\obj\Debug\Pizza.pdb
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\Pizza.exe.config
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\Pizza.exe
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\Pizza.pdb
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\System.Buffers.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\System.Data.SQLite.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\System.Memory.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\System.Numerics.Vectors.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\System.Buffers.xml
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\System.Data.SQLite.xml
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\System.Memory.xml
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\System.Numerics.Vectors.xml
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\pendrive\repozytoria git\Pizza Git\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+A:\pendrive\repozytoria git\Pizza Git\Pizza\obj\Debug\Pizza.FormMenu.resources
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\Newtonsoft.Json.dll
+A:\pendrive\repozytoria git\Pizza Git\Pizza\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\obj\Debug\Pizza.FormMenu.resources
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\obj\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\obj\Debug\Pizza.FormMenu.resources
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\obj\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\obj\Debug\Pizza.FormMenu.resources
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Pizza\obj\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\obj\Debug\Pizza.FormMenu.resources
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Pizza\obj\Debug\Pizza.pdb
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\Pizza.exe
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\Pizza.pdb
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\System.Memory.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\System.Memory.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\obj\Debug\Pizza.FormMenu.resources
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Pizza\obj\Debug\Pizza.pdb
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\System.Memory.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\System.Memory.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\obj\Debug\Pizza.FormMenu.resources
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Source\Repos\Zadanie-Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.FormMenu.resources
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.FormMenu.resources
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.FormHistory.resources
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.FormMail.resources
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\System.Buffers.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\System.Data.SQLite.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\System.Memory.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\System.Buffers.xml
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\System.Data.SQLite.xml
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\System.Memory.xml
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\obj\Debug\Pizza.csproj.CopyComplete

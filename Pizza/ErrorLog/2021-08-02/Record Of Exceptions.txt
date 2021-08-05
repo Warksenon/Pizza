@@ -1,0 +1,448 @@
+Data : 2021-08-02 19:31:58
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 19:31:58
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '0' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 19:31:58
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 19:31:58
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '1' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 19:31:58
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 19:31:58
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 19:31:58
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 19:31:59
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 19:31:59
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 19:31:59
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 19:32:20
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 19:32:20
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '0' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 19:32:20
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 19:32:20
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '1' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 19:32:20
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 19:32:20
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 19:32:20
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 19:32:21
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 19:32:21
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 19:32:21
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:28:36
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:28:36
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '0' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 20:28:36
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:28:36
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '1' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 20:28:36
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:28:36
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:28:36
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:28:36
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:28:36
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:28:36
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:30:10
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:30:10
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '0' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 20:30:10
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:30:10
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '1' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 20:30:10
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:30:10
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:30:10
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:30:10
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:30:10
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:30:10
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:30:53
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:30:53
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '0' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 20:30:53
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:30:53
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '1' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 20:30:53
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:30:53
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:30:53
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:30:53
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:30:53
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:30:53
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:32:19
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:32:19
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '0' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 20:32:19
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:32:19
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '1' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 20:32:19
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:32:19
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:32:19
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:32:19
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:32:19
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:32:19
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:57:32
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:57:32
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '0' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 20:57:32
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:57:32
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+System.ArgumentOutOfRangeException: InvalidArgument=Wartość '1' nie jest prawidłową wartością dla 'index'.
+Nazwa parametru: index
+   w System.Windows.Forms.ListView.ListViewItemCollection.get_Item(Int32 index)
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.GetSelektedDish() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 28
+
+Data : 2021-08-02 20:57:32
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:57:32
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Pizza.Presenters.PresenterFormMenu.DishesListView.ChecktDishSelectedItem() w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\DishesListView.cs:wiersz 43
+
+Data : 2021-08-02 20:57:32
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:57:32
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:57:32
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+
+Data : 2021-08-02 20:57:32
+Form1OrderPresenter - FindPrice
+System.FormatException: Nieprawidłowy format ciągu wejściowego.
+   w System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   w System.Convert.ToDouble(String value)
+   w Pizza.Presenters.PresenterFormMenu.OrderListView.FindPriceAndConvertToDoubel(String dish) w C:\Users\Artur\Desktop\dalsze prace z Pizza\Pizza\Presenters\PresenterFormMenu\OrderListView.cs:wiersz 91
+

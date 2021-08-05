@@ -1,0 +1,447 @@
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Test.dll.config
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Test.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Test.pdb
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Pizza.exe
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\System.Data.SQLite.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Pizza.pdb
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Pizza.exe.config
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\System.Data.SQLite.xml
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\bin\Debug\System.Data.SQLite.dll.config
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\obj\Debug\Test.csproj.CopyComplete
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\obj\Debug\Test.dll
+E:\kopie programów\VisualStudio\Pizza\2020-10-12\Test\obj\Debug\Test.pdb
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Test.dll.config
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Test.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Test.pdb
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Pizza.exe
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Pizza.pdb
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Pizza.exe.config
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\Artur\Desktop\2020-10-13\Test\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Artur\Desktop\2020-10-13\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\2020-10-13\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Artur\Desktop\2020-10-13\Test\obj\Debug\Test.dll
+C:\Users\Artur\Desktop\2020-10-13\Test\obj\Debug\Test.pdb
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Test.dll.config
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Test.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Test.pdb
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Pizza.exe
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Pizza.pdb
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Pizza.exe.config
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\obj\Debug\Test.dll
+C:\Users\user\Source\Repos\Warksenon\menu\Pizza\Test\obj\Debug\Test.pdb
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Test.dll.config
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Test.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Test.pdb
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Pizza.exe
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Pizza.pdb
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Pizza.exe.config
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\Artur\Desktop\2020-10-14\Test\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Artur\Desktop\2020-10-14\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\2020-10-14\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Artur\Desktop\2020-10-14\Test\obj\Debug\Test.dll
+C:\Users\Artur\Desktop\2020-10-14\Test\obj\Debug\Test.pdb
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Test\obj\Debug\Test.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza\Test\obj\Debug\Test.pdb
+A:\pendrive\repozytoria git\Pizza Git\Test\obj\Debug\Test.csprojAssemblyReference.cache
+A:\pendrive\repozytoria git\Pizza Git\Test\obj\Debug\Test.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\obj\Debug\Test.pdb
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Test.dll.config
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Test.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Test.pdb
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Pizza.exe
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\System.Data.SQLite.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Pizza.pdb
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Pizza.exe.config
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\System.Data.SQLite.xml
+A:\pendrive\repozytoria git\Pizza Git\Test\obj\Debug\Test.csproj.CopyComplete
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\nunit.framework.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Newtonsoft.Json.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\nunit.framework.xml
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Newtonsoft.Json.xml
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+A:\pendrive\repozytoria git\Pizza Git\Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Test.dll.config
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Test.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Test.pdb
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\obj\Debug\Test.dll
+C:\Users\user\Desktop\projekty\visual studio\Pizza Git\Test\obj\Debug\Test.pdb
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Test.dll.config
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Test.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Test.pdb
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\obj\Debug\Test.dll
+C:\Users\user\Desktop\projekty\visual studio\14.04.2021 -praca\Pizza Git\Test\obj\Debug\Test.pdb
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Test.dll.config
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Test.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Test.pdb
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\obj\Debug\Test.dll
+C:\Users\user\Desktop\projekty\ostatnie podskoki\Pizza Git\Test\obj\Debug\Test.pdb
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Test.dll.config
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Test.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Test.pdb
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\obj\Debug\Test.dll
+C:\Users\user\Desktop\projekty\przed scaleniem brancha Test\Pizza Git\Test\obj\Debug\Test.pdb
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Test.dll.config
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Test.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Test.pdb
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\obj\Debug\Test.dll
+C:\Users\user\Desktop\Zadanie pizza\Pizza Git\Test\obj\Debug\Test.pdb
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Test.dll.config
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Test.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Test.pdb
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\nunit.framework.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Pizza.exe
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Pizza.pdb
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Pizza.exe.config
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\nunit.framework.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\obj\Debug\Test.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza3\Test\obj\Debug\Test.pdb
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Test.dll.config
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Test.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Test.pdb
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\nunit.framework.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Pizza.exe
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Pizza.pdb
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Pizza.exe.config
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\nunit.framework.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\obj\Debug\Test.dll
+C:\Users\user\Source\Repos\Zadanie-Pizza\Test\obj\Debug\Test.pdb
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Test.dll.config
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Test.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Test.pdb
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Pizza.exe
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Pizza.pdb
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Pizza.exe.config
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\obj\Debug\Test.dll
+C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\obj\Debug\Test.pdb
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\obj\Debug\Test.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\obj\Debug\Test.pdb
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Test.dll.config
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Test.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Test.pdb
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\nunit.framework.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Pizza.exe
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Pizza.pdb
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Pizza.exe.config
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\nunit.framework.xml
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\Artur\Desktop\dalsze prace z Pizza\Test\obj\Debug\Test.csproj.CopyComplete

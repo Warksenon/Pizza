@@ -1,0 +1,874 @@
+Data : 14.05.2021 00:39:39
+LoadOrderListFromTxt
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.LoadingFilesTxtTest.LoadOrderListFromTxt() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\FilesTXTtest\LoadingFilesTxtTest.cs:wiersz 24
+
+Data : 14.05.2021 00:39:39
+LoadOrderListFromTxt
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.LoadingFilesTxtTest.LoadOrderListFromTxt() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\FilesTXTtest\LoadingFilesTxtTest.cs:wiersz 24
+
+Data : 14.05.2021 00:39:39
+LoadOrderListFromTxt
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.LoadingFilesTxtTest.LoadOrderListFromTxt() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\FilesTXTtest\LoadingFilesTxtTest.cs:wiersz 24
+
+Data : 14.05.2021 00:39:39
+LoadOrderListFromTxt
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w Test.LoadingFilesTxtTest.LoadOrderListFromTxt() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\FilesTXTtest\LoadingFilesTxtTest.cs:wiersz 24
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+InsertAndQuestionSQL - FindingMaxIdCena
+System.InvalidOperationException: DataReader has been closed
+   w System.Data.SQLite.SQLiteDataReader.CheckClosed()
+   w System.Data.SQLite.SQLiteDataReader.Read()
+   w Test.OrderSQLTest.FindingMaxIdCena() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\OrderSQLTest.cs:wiersz 114
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+InsertAndQuestionSQL - FindingMaxIdCena
+System.InvalidOperationException: DataReader has been closed
+   w System.Data.SQLite.SQLiteDataReader.CheckClosed()
+   w System.Data.SQLite.SQLiteDataReader.Read()
+   w Test.OrderSQLTest.FindingMaxIdCena() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\OrderSQLTest.cs:wiersz 114
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+InsertAndQuestionSQL - FindingMaxIdCena
+System.InvalidOperationException: DataReader has been closed
+   w System.Data.SQLite.SQLiteDataReader.CheckClosed()
+   w System.Data.SQLite.SQLiteDataReader.Read()
+   w Test.OrderSQLTest.FindingMaxIdCena() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\OrderSQLTest.cs:wiersz 114
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+InsertAndQuestionSQL - FindingMaxIdCena
+System.InvalidOperationException: DataReader has been closed
+   w System.Data.SQLite.SQLiteDataReader.CheckClosed()
+   w System.Data.SQLite.SQLiteDataReader.Read()
+   w Test.OrderSQLTest.FindingMaxIdCena() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\OrderSQLTest.cs:wiersz 114
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+InsertAndQuestionSQL - FindingMaxIdCena
+System.InvalidOperationException: DataReader has been closed
+   w System.Data.SQLite.SQLiteDataReader.CheckClosed()
+   w System.Data.SQLite.SQLiteDataReader.Read()
+   w Test.OrderSQLTest.FindingMaxIdCena() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\OrderSQLTest.cs:wiersz 114
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+InsertAndQuestionSQL - FindingMaxIdCena
+System.InvalidOperationException: DataReader has been closed
+   w System.Data.SQLite.SQLiteDataReader.CheckClosed()
+   w System.Data.SQLite.SQLiteDataReader.Read()
+   w Test.OrderSQLTest.FindingMaxIdCena() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\OrderSQLTest.cs:wiersz 114
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:40
+InsertAndQuestionSQL - FindingMaxIdCena
+System.InvalidOperationException: DataReader has been closed
+   w System.Data.SQLite.SQLiteDataReader.CheckClosed()
+   w System.Data.SQLite.SQLiteDataReader.Read()
+   w Test.OrderSQLTest.FindingMaxIdCena() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\OrderSQLTest.cs:wiersz 114
+
+Data : 14.05.2021 00:39:40
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:40
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:41
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:41
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:41
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:41
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:41
+InsertAndQuestionSQL - FindingMaxIdCena
+System.InvalidOperationException: DataReader has been closed
+   w System.Data.SQLite.SQLiteDataReader.CheckClosed()
+   w System.Data.SQLite.SQLiteDataReader.Read()
+   w Test.OrderSQLTest.FindingMaxIdCena() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\OrderSQLTest.cs:wiersz 114
+
+Data : 14.05.2021 00:39:41
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:41
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:41
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:41
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:41
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:41
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:41
+InsertAndQuestionSQL - FindingMaxIdCena
+System.InvalidOperationException: DataReader has been closed
+   w System.Data.SQLite.SQLiteDataReader.CheckClosed()
+   w System.Data.SQLite.SQLiteDataReader.Read()
+   w Test.OrderSQLTest.FindingMaxIdCena() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\OrderSQLTest.cs:wiersz 114
+
+Data : 14.05.2021 00:39:41
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:41
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:41
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:41
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:41
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:41
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
+Data : 14.05.2021 00:39:41
+InsertAndQuestionSQL - FindingMaxIdCena
+System.InvalidOperationException: DataReader has been closed
+   w System.Data.SQLite.SQLiteDataReader.CheckClosed()
+   w System.Data.SQLite.SQLiteDataReader.Read()
+   w Test.OrderSQLTest.FindingMaxIdCena() w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\OrderSQLTest.cs:wiersz 114
+
+Data : 14.05.2021 00:39:41
+CreateSQLitePriceAll
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'PriceAll' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLitePriceAll(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 53
+
+Data : 14.05.2021 00:39:41
+CreateSQLiteDishes
+code = Error (1), message = System.Data.SQLite.SQLiteException (0x800007BF): SQL logic error
+table 'Dishes' already exists
+   w System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   w System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   w System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   w System.Data.SQLite.SQLiteDataReader.NextResult()
+   w System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   w System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   w System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   w Test.CreateSQLiteTablesTest.CreateSQLiteDishes(SQLiteConnection cn) w C:\Users\user\Desktop\projekty\dalsze prace z Pizza\Test\SimulatingClassesMainProject\ModelsTest\SqlLiteTest\CreateTabelesTest.cs:wiersz 76
+
